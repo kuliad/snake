@@ -1,4 +1,0 @@
-﻿  funkcje.cpp
-C:\Users\Dawid\source\repos\snake\snake\funkcje.cpp(93,11): warning C4244: "inicjowanie": konwersja z "ULONGLONG" do "int", możliwa utrata danych
-C:\Users\Dawid\source\repos\snake\snake\funkcje.cpp(266,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-  snake.vcxproj -> C:\Users\Dawid\source\repos\snake\Debug\snake.exe
